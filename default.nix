@@ -202,7 +202,7 @@ in
             "index": "index.html",
             "selectors": {
               "div#package-header": "Package",
-              "div#module-header": "Module",
+              "div#module-header p": "Module",
               "p.src a[id^=t]": "Type",
               "td.src a[id^=v]": "Constructor",
               "p.src a[id^=v]": "Function"
