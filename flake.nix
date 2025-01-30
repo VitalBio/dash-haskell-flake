@@ -1,0 +1,5 @@
+{
+  outputs = inputs: {
+    flakeModule = ./.;
+  };
+}
